@@ -1,0 +1,5 @@
+-add pass thru for terminal commands
+-add commands for model selection
+-figure out cp
+-history handling
+-rag for specific files: help files, repos 
